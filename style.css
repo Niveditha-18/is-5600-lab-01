@@ -34,7 +34,7 @@ nav {
    color: rgb(240, 246, 247);
  }
  nav a:visited{
-   color: yellow;
+   color: rgb(241, 249, 15);
  }
  nav a:hover{
    color: red
@@ -43,14 +43,14 @@ nav {
    margin-left: 80px;
  }
  nav a {
-   color: #51279b;
+   color: #7b11d7;
    text-decoration: none;
    padding: 10px;
-   font-weight: 600;
+   font-weight: 800;
  }
 
  nav a:visited {
-   color: #8662c7;
+   color: #754ac5;
  }
 
  nav a:hover {
@@ -63,7 +63,7 @@ nav {
  }
  header div {
    margin: 100px 0 0 80px;
-   color: white;
+   color: rgb(223, 227, 228);
  }
  header h2 {
    font-size: 48px;
@@ -74,7 +74,7 @@ nav {
    margin-bottom: 1.5rem;
  }
  header div a {
-   background-color: #51279b;
+   background-color: #50b674;
    color: white;
    padding: 10px 20px;
    text-decoration: none;
